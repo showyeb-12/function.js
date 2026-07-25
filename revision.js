@@ -9,9 +9,7 @@
 
 const price = 25;
 if (price > 20) {
-  console.log("i will buy it")      
+  console.log("i will buy it");
 }
-for (let i = 0; i < 10; i++) {
-
-}
+for (let i = 0; i < 10; i++) {}
 const numbers = [2, 3, 4, 5, 6];

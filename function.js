@@ -17,3 +17,7 @@ function fanOnkor() {
 function setTheMosquitoNet() {
   console.log("mosquito no dinner for you!!!!");
 }
+
+// call the function
+// write the function name and then two first bracket
+fanOnkor();
